@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- Professional Scrolling Tech Stack -->
-<img src="https://skillicons.dev/icons?i=typescript,react,nodejs,aws,selenium,playwright,postman,git,github&perline=5" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,laravel,aws,mysql,selenium,playwright,postman,git,github,vscode&perline=8" alt="Tech Stack" />
 
 <br/>
 
