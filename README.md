@@ -23,7 +23,7 @@
 
 ---
 
-## � About Me
+## 🚀 About Me
 
 ```typescript
 const mitch = {
