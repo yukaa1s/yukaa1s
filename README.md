@@ -25,25 +25,30 @@
 
 ## 🚀 About Me
 
-```typescript
-const mitch = {
-  pronouns: "He/Him",
-  role: "Aspiring Full-Stack Developer & QA Engineer",
-  class: "2026",
-  status: "🟢 Open to Junior Dev/QA Positions",
-  location: "📍 Your Location",
-  
-  techStack: {
-    frontend: ["React", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express"],
-    cloud: ["AWS"],
-    qa: ["Selenium", "Playwright", "Postman"],
-  },
-  
-  currentlyLearning: ["Next.js", "Docker", "CI/CD"],
-  funFact: "I debug with console.log and I'm not ashamed! ☕"
-};
-```
+| Property | Value |
+|----------|-------|
+| **Name** | Mitch Yvone Ortega |
+| **Role** | Aspiring Full-Stack Developer & QA Engineer |
+| **Class** | 2026 |
+| **Status** | 🟢 Open to Junior Dev/QA Positions |
+| **Location** | 📍 Your Location |
+| **Pronouns** | He/Him |
+
+### 💻 Tech Stack
+
+**Frontend:** `React` `TypeScript` `Tailwind CSS`
+
+**Backend:** `Node.js` `Express`
+
+**Cloud:** `AWS`
+
+**QA:** `Selenium` `Playwright` `Postman`
+
+### 📚 Currently Learning
+`Next.js` `Docker` `CI/CD`
+
+### 💡 Fun Fact
+> I debug with console.log and I'm not ashamed! ☕
 
 ---
 
