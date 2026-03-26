@@ -1,11 +1,10 @@
 <div align="center">
-  
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Mitch%20Yvone%20Ortega&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer%20%26%20QA%20Engineer&descAlignY=55&descSize=20" alt="Header" />
 
-  <br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Class+of+2026;Open+to+Junior+Positions" alt="Typing" />
+# 👨‍💻 Mitch Yvone Ortega
+
+### Aspiring Full-Stack Developer & QA Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Class+of+2026;Open+to+Junior+Positions" alt="Typing" />
 
 </div>
 
