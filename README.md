@@ -12,30 +12,18 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!-- Professional Scrolling Tech Stack -->
+<img src="https://skillicons.dev/icons?i=typescript,react,nodejs,aws,selenium,playwright,postman,git,github&perline=5" alt="Tech Stack" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=1000&color=64748B&center=true&vCenter=true&width=700&lines=TypeScript+%E2%86%92+React+%E2%86%92+Node.js+%E2%86%92+AWS;Selenium+%E2%86%92+Playwright+%E2%86%92+Postman+%E2%86%92+Git" alt="Scrolling Tech Stack" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yukaa1s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=F0F6FC" width="48%" alt="Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yukaa1s&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=3B82F6" width="48%" alt="Streak" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
