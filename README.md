@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 👨‍💻 Mitch Yvone Ortega
 
@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
 
 <!-- Professional Scrolling Tech Stack -->
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,laravel,aws,mysql,selenium,playwright,postman,git,github,vscode&perline=8" alt="Tech Stack" />
@@ -27,7 +27,7 @@
 
 ## 🌐 Connect
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yukaa1s)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yukaa1s)
@@ -37,6 +37,6 @@
 
 ---
 
-<div align="center">
+<d>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" />
 </div>
