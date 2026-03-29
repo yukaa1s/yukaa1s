@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
 # 👨‍💻 Mitch Yvone Ortega
 
@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Class+of+2026;Open+to+Junior+Positions" alt="Typing" />
 
-</div>
+<div align="center">
 
 ---
 
