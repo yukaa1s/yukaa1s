@@ -19,7 +19,9 @@ HTML • CSS • JavaScript • TypeScript • React
 Laravel • Node.js • MySQL • PostgreSQL • Supabase • AWS
 
 ### QA & Testing
-<img src="https://skillicons.dev/icons?i=selenium,playwright,postman&perline=3" alt="QA" />
+<img src="https://skillicons.dev/icons?i=selenium,postman&perline=2" alt="QA" />
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 Selenium • Playwright • Postman
 
