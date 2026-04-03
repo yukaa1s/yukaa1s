@@ -23,7 +23,7 @@
 
 **GitHub:** github.com/yukaa1s
 
-**Email:** mitchortegawork@gmail.com
+**Email:** mitchyvoneortega1@gmail.com
 
 ---
 
