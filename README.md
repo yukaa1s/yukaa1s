@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi!+I'm+Mitch+Yvone+Ortega;Full-Stack+Developer+%26+QA+Engineer;Step+by+step,+I+build+reliable+systems.;From+foundation+to+finish,+I+create+solutions+that+work." alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi!+I'm+Mitch+Yvone+Ortega;Full-Stack+Developer+%26+QA+Engineer;Step+by+step,+I+build+reliable+systems.;From+foundation+to+finish,;I+create+solutions+that+work." alt="Typing" />
 
 </div>
 
